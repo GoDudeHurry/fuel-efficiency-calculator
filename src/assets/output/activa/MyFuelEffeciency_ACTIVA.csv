@@ -1,0 +1,9 @@
+DATE,Amount refilled,Volume of fuel(lit.),Meter reading(KM),Mileage(per lit.),Range(per Rs.100),Bunk company,Bunk location,Mileage Standard Deviation,Economy Standard Deviation
+1042024,260,2.42,34543.0,53.97,50.23,HP,Injapur,1.07,1.01
+4042024,260,2.42,34673.6,43.84,40.81,Indian Oil,Manneguda,-9.06,-8.41
+8042024,260,2.42,34779.7,58.8,54.73,Bharat Petroleum,Yamjal,5.9,5.51
+12042024,260,2.42,34922.0,55.17,51.35,Bharat Petroleum,Manneguda,2.27,2.13
+17042024,260,2.42,35055.5,57.31,53.35,Indian Oil,Manneguda,4.41,4.13
+22042024,260,2.42,35194.2,46.44,43.16,Bharat Petroleum,Nagole,-6.46,-6.06
+1052024,269,2.5,35310.3,56.6,49.26,HP,ZP Road,3.7,0.04
+5052024,270,2.35,35443.3,0.0,0.0,Indian Oil,Yamjal,0.0,0.0

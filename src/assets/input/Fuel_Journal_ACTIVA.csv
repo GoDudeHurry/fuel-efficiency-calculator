@@ -1,0 +1,9 @@
+DATE,Amount refilled,Volume of fuel(lit.),Meter reading(KM),Bunk company,Bunk location
+1042024,260,2.42,34543,HP,Injapur
+4042024,260,2.42,34673.6,Indian Oil,Manneguda
+8042024,260,2.42,34779.7,Bharat Petroleum,Yamjal
+12042024,260,2.42,34922,Bharat Petroleum,Manneguda
+17042024,260,2.42,35055.5,Indian Oil,Manneguda
+22042024,260,2.42,35194.2,Bharat Petroleum,Nagole
+1052024,269,2.5,35310.3,HP,ZP Road
+05052024,270,2.35,35443.3,Indian Oil,Yamjal

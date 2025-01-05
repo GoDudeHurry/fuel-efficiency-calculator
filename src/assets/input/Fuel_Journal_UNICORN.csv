@@ -1,0 +1,11 @@
+DATE,Amount refilled,Volume of fuel(lit.),Meter reading(KM),Bunk company,Bunk location
+1,220,2.05,7381.7,HP,Yamjal
+2,220,2.05,7446,HP,Yamjal
+3,220,2.05,7552.2,HP,Yamjal
+4,220,2.05,7618.9,HP,Yamjal
+5,220,2.05,7689.3,HP,Yamjal
+6,220,2.05,7781.3,HP,Yamjal
+7,220,2.05,7867.5,HP,Yamjal
+8,220,2.05,7965.3,HP,Yamjal
+9,220,2.05,8063.6,HP,Yamjal
+10,440,2.05,8162.5,HP,Yamjal
