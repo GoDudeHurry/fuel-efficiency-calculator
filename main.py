@@ -2,8 +2,6 @@ from src.assets.Refill import Refill
 from src.helpers.pandas_helper import get_csv_as_list_of_dict, update_csv
 from src.helpers.processor import DataProcessor
 import src.assets.constants as constants
-#remove
-from src.assets.Effeciency import Effeciency
 
 def start():
     print("Welcome to fuel effeciency calculator!\n\nPlease enter the following details:")
